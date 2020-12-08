@@ -75,3 +75,14 @@
 .col p{
     font-size: 12px;
 }
+
+@media (max-width:922px) and (min-width:280px){
+    .footer_center{
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .centurion{
+        margin: 0 auto;
+    }
+}
